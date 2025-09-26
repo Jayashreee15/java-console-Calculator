@@ -1,7 +1,8 @@
 # java-console-Calculator –- A Hands-On Learning Project
-📟 Java Console Calculator
+  Java Console Calculator
 
-🚀 About This Project
+ 
+ # About This Project
 
 This is a menu-driven console calculator built in Java.
 I created it as part of my learning journey to strengthen my skills in:
@@ -18,7 +19,7 @@ The calculator is simple, clean, and keeps running until the user decides to exi
 
 ---
 
-🌟 Features
+# Features
 
 Simple Operations – Addition, Subtraction, Multiplication, and Division
 
@@ -34,7 +35,7 @@ User-Friendly Output – Clear and consistent messages for a smooth experience
 
 ---
 
-🎯 Learning Outcomes
+# Learning Outcomes
 
 Through this project, I practiced and learned:
 
@@ -50,7 +51,7 @@ Designing programs with a practical, user-centric mindset
 
 ---
 
-🛠 Tools & Setup
+# Tools & Setup
 
 Language: Java (JDK 8+)
 
@@ -59,7 +60,7 @@ Editor/IDE: VS Code / IntelliJ IDEA / Eclipse
 Execution: Terminal / Command Prompt
 
 
-How to Run
+# How to Run
 
 # Compile
 javac Calculator.java
@@ -70,7 +71,7 @@ java Calculator
 
 ---
 
-📂 Project Structure
+# Project Structure
 
 📂 JavaConsoleCalculator
  ├── Calculator.java   # Main source code
@@ -79,7 +80,7 @@ java Calculator
 
 ---
 
-▶ Sample Run
+#  Sample Run
 
 === Java Console Calculator ===
 Enter first number: 10
@@ -93,7 +94,7 @@ Calculator exited. Thank You..!
 
 ---
 
-🔮 Future Enhancements
+# Future Enhancements
 
 Add more operations (modulus, power, square root)
 
